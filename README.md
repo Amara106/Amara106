@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Amara106
 - 👀 I’m interested in data science
 - 🌱 I’m currently learning data analysis with SQL
-- 💞️ I’m looking to collaborate on various data nalytic projects
+- 💞️ I’m looking to collaborate on various data analytic projects
 - 📫 How to reach me https://www.linkedin.com/in/okike-grace-295476248/
 
 <!---
